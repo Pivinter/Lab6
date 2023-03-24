@@ -1,0 +1,6 @@
+Task1, 10
+DOlaboop, 9
+makeclean, 7
+Dohomework, 10
+Do lab pkr, 5
+Doproject, 7
